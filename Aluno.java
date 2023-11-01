@@ -3,6 +3,6 @@ public class Aluno {
     private String matricula;
 
     private void ola(){
-        System.out.println("Olá de aluno");
+        System.out.println("Olá de aluno teste");
     }
 }
