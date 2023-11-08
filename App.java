@@ -6,7 +6,5 @@ public class App {
     }
     public int mediaHarmonica(int valores){
         System.out.println("Calculando Media Harmonica");
-        System.out.println("Corrigindo Bug");
-
     }
 }
