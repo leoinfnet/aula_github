@@ -10,7 +10,4 @@ public class App {
     public int mediaPonderada(int valores){
         System.out.println("Calculando Media Ponderada");
     }
-    public void metodoNovo(int valores){
-        System.out.println("Calculando Media Ponderada");
-    }
 }
