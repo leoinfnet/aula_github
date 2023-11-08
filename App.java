@@ -18,4 +18,9 @@ public class App {
         System.out.println("Calculando Media Ponderada");
         System.out.println("Finalizando a distancia");
     }
+    public void calculaDistanciaEuclidiana(int p1, int p2){
+        System.out.println("Calculando A distancia ");
+        System.out.println("Calculando Media Ponderada");
+        System.out.println("Finalizando a distancia");
+    }
 }
