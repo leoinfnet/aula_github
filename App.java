@@ -13,4 +13,9 @@ public class App {
     public void mediaGeometrica(int valores){
         System.out.println("Calculando Media Geometrica");
     }
+    public void calculaDistanciaEuclidiana(int p1, int p2){
+        System.out.println("Calculando A distancia ");
+        System.out.println("Calculando Media Ponderada");
+        System.out.println("Finalizando a distancia");
+    }
 }
